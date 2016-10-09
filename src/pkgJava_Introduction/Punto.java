@@ -1,4 +1,4 @@
-package pkgPunto;
+package pkgJava_Introduction;
 
 public class Punto {
 	

@@ -1,10 +1,10 @@
-package pkgPunto;
+package pkgJava_Introduction;
 
 public class DemoPunto {
 
 	public static void main(String[] args) {
 		
-		Punto punto1 = new Punto(0.3, 3.0);
+		Punto punto1 = new Punto(0.0, 3.0);
 		Punto punto2 = new Punto();
 		
 		punto2.setX(0.0);

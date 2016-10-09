@@ -1,4 +1,4 @@
-package pkgMediaMaraton;
+package pkgJava_Introduction;
 
 public class DosPrimeros {
 	
