@@ -19,11 +19,6 @@ public class Biblioteca {
 		Libro.prestar(libro2);
 		Libro.devolver(libro3);
 		
-		Libro.prestar(libro1);
-		Libro.prestar(libro2);
-		Libro.devolver(libro3);
-		
-		
 		System.out.println("El total de libros prestados actualmente es de " +
 		                    Biblioteca.librosPrestados);
 	
